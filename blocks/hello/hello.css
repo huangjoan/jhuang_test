@@ -2,5 +2,5 @@
     padding: var(--spacing-xxl);
     background: var(--color-gray-800);
     color: #FFF;
-    border-bottom: 40px solid #ff1693;
+    border-bottom: 4px solid #ff1693;
   }
